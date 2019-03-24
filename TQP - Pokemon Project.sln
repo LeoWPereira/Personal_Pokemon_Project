@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TQP - Pokemon Project.CSharp.Plugins", "TQP - Pokemon Project.CSharp.Plugins.csproj", "{FE7C252C-D34F-5323-5DFA-76BB2809B322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TQP - Pokemon Project.CSharp", "TQP - Pokemon Project.CSharp.csproj", "{29DCC886-EC26-D837-2016-7A0D4019F1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TQP - Pokemon Project.CSharp.Editor", "TQP - Pokemon Project.CSharp.Editor.csproj", "{FAA70513-9062-B5FD-818E-6AA6506F8DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7C252C-D34F-5323-5DFA-76BB2809B322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7C252C-D34F-5323-5DFA-76BB2809B322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7C252C-D34F-5323-5DFA-76BB2809B322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7C252C-D34F-5323-5DFA-76BB2809B322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DCC886-EC26-D837-2016-7A0D4019F1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DCC886-EC26-D837-2016-7A0D4019F1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DCC886-EC26-D837-2016-7A0D4019F1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DCC886-EC26-D837-2016-7A0D4019F1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA70513-9062-B5FD-818E-6AA6506F8DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA70513-9062-B5FD-818E-6AA6506F8DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA70513-9062-B5FD-818E-6AA6506F8DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA70513-9062-B5FD-818E-6AA6506F8DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
